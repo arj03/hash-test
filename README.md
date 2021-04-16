@@ -29,3 +29,24 @@ hash: 0.304ms
 hash 493e80c8
 done
 ```
+
+Numbers on android:
+
+```
+[
+ './value_author.32prefix',
+ './timestamp.index',
+ './value_content_type_post.index'                                             ]
+filename ./value_author.32prefix
+length 4647144
+hash: 58.443ms
+hash 1777b9f4
+filename ./timestamp.index
+length 9293968
+hash: 37.506ms
+hash 16bccd6f
+filename ./value_content_type_post.index
+length 132280
+hash: 0.625ms
+hash bec811f9
+```
