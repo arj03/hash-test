@@ -36,7 +36,8 @@ Numbers on android:
 [
  './value_author.32prefix',
  './timestamp.index',
- './value_content_type_post.index'                                             ]
+ './value_content_type_post.index'
+]
 filename ./value_author.32prefix
 length 4647144
 hash: 58.443ms
